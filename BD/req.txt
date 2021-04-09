@@ -1,0 +1,11 @@
+# sqlite3
+# glob
+# androidhelper
+# classificator
+# random
+# loadAndroid
+# chatbot
+# util
+# urllib.request
+# urllib.parse
+# unicodedata
